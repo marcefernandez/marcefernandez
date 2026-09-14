@@ -54,8 +54,6 @@ Landing Page / Multimedia
 
 <h3>Let's connect</h3>
 
-<h3>Let's connect</h3>
-
 <p>
   <a href="https://sebacode.vercel.app/" target="_blank">
     <img
@@ -65,7 +63,8 @@ Landing Page / Multimedia
       alt="Portfolio"
     />
   </a>
-
+  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/marcelo-sebasti%C3%A1n-fern%C3%A1ndez-2aa59a24a/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
@@ -74,7 +73,8 @@ Landing Page / Multimedia
       alt="LinkedIn"
     />
   </a>
-
+  &nbsp;&nbsp;
+  
   <a href="https://x.com/sebastianmf2014" target="_blank">
     <img
       src="https://cdn.simpleicons.org/x/ffffff"
@@ -83,7 +83,8 @@ Landing Page / Multimedia
       alt="X"
     />
   </a>
-
+  &nbsp;&nbsp;
+  
   <a href="https://github.com/marcefernandez" target="_blank">
     <img
       src="https://cdn.simpleicons.org/github/ffffff"
