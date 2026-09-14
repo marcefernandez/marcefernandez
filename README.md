@@ -54,23 +54,45 @@ Landing Page / Multimedia
 
 <h3>Let's connect</h3>
 
+<h3>Let's connect</h3>
+
 <p>
-  <a href="https://sebacode.vercel.app/">
-    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="38" height="38" alt="Portfolio" />
+  <a href="https://sebacode.vercel.app/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/googlechrome/ffffff"
+      width="48"
+      height="48"
+      alt="Portfolio"
+    />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/marcelo-sebastián-fernández-2aa59a24a">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="38" height="38" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/marcelo-sebasti%C3%A1n-fern%C3%A1ndez-2aa59a24a/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      width="48"
+      height="48"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://x.com/sebastianmf2014">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="38" height="38" alt="X" />
+  <a href="https://x.com/sebastianmf2014" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/x/ffffff"
+      width="48"
+      height="48"
+      alt="X"
+    />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://github.com/marcefernandez">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="38" height="38" alt="GitHub" />
+  <a href="https://github.com/marcefernandez" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/github/ffffff"
+      width="48"
+      height="48"
+      alt="GitHub"
+    />
   </a>
 </p>
