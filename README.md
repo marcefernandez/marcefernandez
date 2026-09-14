@@ -1,19 +1,15 @@
-<h1 align="left">Marcelo Fernández</h1>
-
-### Web3 · Frontend · Product
-
-> Building digital products, Web3 ecosystems and AI-powered experiences.
+<p align="center">
+  <img
+    src="./github-profile-header.png"
+    alt="Marcelo Fernández - Web3 Frontend Product"
+    width="100%"
+  />
+</p>
 
 📍 Tierra del Fuego, Argentina  
 🔥 Founder @ FuegoLabz
 
 ---
-
-## Web3 sin plantillas.
-
-Diseño y construyo experiencias digitales enfocadas en producto, comunidad y tecnología.
-
-Actualmente trabajo con productos Web3, plataformas SaaS, inteligencia artificial, marketplaces y herramientas para comunidades digitales.
 
 ### Selected work
 
