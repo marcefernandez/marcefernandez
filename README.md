@@ -13,10 +13,20 @@
 
 ### Selected work
 
-- 🐂 **Bulls & Apes Project** — Web3 / NFT / Product
-- 🚗 **RentAI** — AI / SaaS / Automotive
-- 🛒 **Provincia Market** — Marketplace / E-commerce
-- 🎫 **Tablerito** — Productivity / SaaS
+### 🐂 Bulls & Apes Project
+Web3 ecosystem · NFT products · Community experiences
+
+### 🚗 RentAI
+AI-powered assistant for vehicle rental businesses.
+
+### 🛒 Provincia Market
+Marketplace and e-commerce platform for Tierra del Fuego.
+
+### 📋 Tablerito
+Collaborative Kanban workspace.
+
+### 💻 Muvia Multimedia
+Landing Page / Multimedia
 
 ---
 
