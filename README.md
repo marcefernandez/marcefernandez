@@ -30,28 +30,47 @@ Landing Page / Multimedia
 
 ---
 
-<h2>🔗 Stack</h2>
+<h2>Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="58" height="58" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=react" width="58" height="58" alt="React" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="58" height="58" alt="Javascript" />
-  <img src="https://skillicons.dev/icons?i=ts" width="58" height="58" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="58" height="58" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="58" height="58" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="58" height="58" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="58" height="58" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=figma" width="58" height="58" alt="Figma" />
+  <img 
+    src="https://skillicons.dev/icons?i=nextjs,react,javascript,ts,tailwind,nodejs,postgres,mongodb,figma&theme=dark"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
 
-### What I'm building
+<h3>What I build</h3>
 
-Web3 products · NFT ecosystems · AI products · SaaS · Marketplaces · Backoffices
+<p>
+  <img src="https://img.shields.io/badge/Web3_Products-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Products-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital_Products-111111?style=for-the-badge" />
+</p>
 
 ---
 
-### Let's connect
+<h3>Let's connect</h3>
 
-[Portfolio](#) · [LinkedIn](#) · [X](#)
+<p>
+  <a href="https://sebacode.vercel.app/">
+    <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="38" height="38" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/marcelo-sebasti%C3%A1n-fern%C3%A1ndez-2aa59a24a/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/sebastianmf2014">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="38" height="38" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/marcefernandez">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="38" height="38" alt="GitHub" />
+  </a>
+</p>
