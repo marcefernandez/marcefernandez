@@ -60,7 +60,7 @@ Landing Page / Multimedia
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/marcelo-sebasti%C3%A1n-fern%C3%A1ndez-2aa59a24a/">
+  <a href="linkedin.com/in/marcelo-sebastián-fernández-2aa59a24a">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
