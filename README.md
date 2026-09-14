@@ -35,6 +35,7 @@ Landing Page / Multimedia
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs" width="58" height="58" alt="Next.js" />
   <img src="https://skillicons.dev/icons?i=react" width="58" height="58" alt="React" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="58" height="58" alt="Javascript" />
   <img src="https://skillicons.dev/icons?i=ts" width="58" height="58" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="58" height="58" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="58" height="58" alt="Node.js" />
